@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiriBruthans
 - 👀 I’m interested in applying computational tools to synthetic biology
-- 📫 How to reach me on bruthans@proton.me
+- 📫 Reach me on bruthans@proton.me
 
 <!---
 JiriBruthans/JiriBruthans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
