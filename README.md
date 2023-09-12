@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiriBruthans
-- 👀 I’m interested in applying computational tools to synthetic biology
+- 👀 I’m applying computational tools to synthetic biology
 - 📫 Reach me on bruthans@proton.me
 
 <!---
