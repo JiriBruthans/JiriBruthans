@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JiriBruthans
-- 👀 Applying computational tools to synbio
+- 👀 Abstracting away complexity of biology
 - 📫 Reach me on bruthans@proton.me
 
